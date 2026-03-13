@@ -2,9 +2,6 @@
 
 A full-featured Streamlit web app that predicts salaries for AI/ML jobs, classifies them as high/low, and provides market insights with beautiful visualizations.
 
-**Live Demo** (if deployed): [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)  
-*(Add the link after deploying to Streamlit Community Cloud)*
-
 ## 🚀 Features
 
 - **Single Prediction**  
